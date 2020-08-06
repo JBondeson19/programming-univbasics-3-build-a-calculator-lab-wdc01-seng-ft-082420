@@ -23,7 +23,7 @@ remainder = num1 % num2
 remainder
 end
 
-class math.sqrt
+
 def square_root(num)
 root = math.sqrt(num)
 end
