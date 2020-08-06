@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "#addition" do 
+describe "#addition" do
   it "adds two numbers together" do
     expect(addition(5,4)).to eq(9)
   end
@@ -30,10 +30,8 @@ describe "#modulo" do
   end
 end
 
-describe "#square_root" do
+#describe "#square_root" do
   it "returns the square root of a number" do
     expect(square_root(81)).to eq(9)
   end
 end
-
-
