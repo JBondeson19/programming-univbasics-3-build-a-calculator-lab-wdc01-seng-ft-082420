@@ -23,7 +23,6 @@ remainder = num1 % num2
 remainder
 end
 
-
 def square_root(num)
-math.sqrt(81)
+
 end
